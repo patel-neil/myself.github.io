@@ -7,7 +7,7 @@
   
   body {
     background: #272727;
-    background-image: url(file:///D:/vs%20code/HW-I/images/index-background.jpg);
+    background-image: url(./images/index-background.jpg);
     background-size: cover;
     font-family: "Montserrat", sans-serif;
     padding-top: 50px;
@@ -15,7 +15,7 @@
   }
   .dark-mode{
 
-    background-image: url(file:///D:/vs%20code/HW-I/images/pexels-fwstudio-164005.jpg);
+    background-image: url(./images/pexels-fwstudio-164005.jpg);
     color: black;
   }
   .dark-mode-button {
