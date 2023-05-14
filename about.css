@@ -8,7 +8,7 @@ body {
     background-size: cover;
     font-family: "Montserrat", sans-serif;
     padding-top: 50px;
-    transition-duration: 0.4s;
+    transition-duration: 0.5s;
   }
   .navMenu {
     overflow: hidden;
